@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodorwasuor.github.io/sitemap.xml
